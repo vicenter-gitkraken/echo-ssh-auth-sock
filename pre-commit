@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo $SSH_AUTH_SOCK
+exit 1
